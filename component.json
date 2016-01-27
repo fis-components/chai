@@ -1,7 +1,7 @@
 {
     "name": "chai",
     "description": "BDD/TDD assertion library for node.js and the browser. Test framework agnostic.",
-    "repos": "https://github.com/chaijs/chai",
+    "repos": "https://github.com/chaijs/chai.git",
     "main": "index",
     "tag": "master",
     "reposType": "npm",
@@ -10,5 +10,5 @@
         "deep-eql": "^0.1.3",
         "type-detect": "^1.0.0"
     },
-    "version": "3.1.0"
+    "version": "3.2.0"
 }
